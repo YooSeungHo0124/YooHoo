@@ -101,18 +101,15 @@
 
 ## 1. 단체 보기
 
-<img src="https://velog.velcdn.com/images/ynco32/post/416868e0-bb68-4f8e-a937-f7de629af123/image.gif
-" width="400" height="600"/>
+<img src="https://velog.velcdn.com/images/ynco32/post/416868e0-bb68-4f8e-a937-f7de629af123/image.gif" width="400" height="600"/>
 
 ## 2. 후원하기
 
-<img src="https://velog.velcdn.com/images/ynco32/post/416868e0-bb68-4f8e-a937-f7de629af123/image.gif
-" width="400" height="600"/>
+<img src="https://velog.velcdn.com/images/ynco32/post/416868e0-bb68-4f8e-a937-f7de629af123/image.gif" width="400" height="600"/>
 
 ## 3. 마이페이지
 
-<img src="https://velog.velcdn.com/images/ynco32/post/416868e0-bb68-4f8e-a937-f7de629af123/image.gif
-" width="400" height="600"/>
+<img src="https://velog.velcdn.com/images/ynco32/post/416868e0-bb68-4f8e-a937-f7de629af123/image.gif" width="400" height="600"/>
 
 ## 5. 관리자 화면
 
