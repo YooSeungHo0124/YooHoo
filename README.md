@@ -101,15 +101,15 @@
 
 ## 1. 단체 보기
 
-<img src="https://velog.velcdn.com/images/ynco32/post/416868e0-bb68-4f8e-a937-f7de629af123/image.gif" width="400" height="600"/>
+<img src="https://velog.velcdn.com/images/ynco32/post/416868e0-bb68-4f8e-a937-f7de629af123/image.gif " width="400" height="600"/>
 
 ## 2. 후원하기
 
-<img src="https://velog.velcdn.com/images/ynco32/post/416868e0-bb68-4f8e-a937-f7de629af123/image.gif" width="400" height="600"/>
+<img src="https://velog.velcdn.com/images/ynco32/post/416868e0-bb68-4f8e-a937-f7de629af123/image.gif " width="400" height="600"/>
 
 ## 3. 마이페이지
 
-<img src="https://velog.velcdn.com/images/ynco32/post/416868e0-bb68-4f8e-a937-f7de629af123/image.gif" width="400" height="600"/>
+<img src="https://velog.velcdn.com/images/ynco32/post/416868e0-bb68-4f8e-a937-f7de629af123/image.gif " width="400" height="600"/>
 
 ## 5. 관리자 화면
 
@@ -119,13 +119,13 @@
 
 ### 후원금 관리
 
-<img src="https://velog.velcdn.com/images/ynco32/post/7735a934-aec0-4a97-ad8d-526589d5827b/image.gif" width="800" height="600"/>
+<img src="https://velog.velcdn.com/images/ynco32/post/7735a934-aec0-4a97-ad8d-526589d5827b/image.gif " width="800" height="600"/>
 
 ### 강아지 관리
 
-<img src="https://velog.velcdn.com/images/ynco32/post/3f553998-7faf-472a-a530-cf52fd2ced77/image.gif" width="800" height="600"/>
+<img src="https://velog.velcdn.com/images/ynco32/post/3f553998-7faf-472a-a530-cf52fd2ced77/image.gif " width="800" height="600"/>
 
-<img src="https://velog.velcdn.com/images/ynco32/post/ebb10ec5-9148-4e5b-9eb1-0e67b59ace74/image.gif" width="800" height="600"/>
+<img src="https://velog.velcdn.com/images/ynco32/post/ebb10ec5-9148-4e5b-9eb1-0e67b59ace74/image.gif " width="800" height="600"/>
 
 
 
