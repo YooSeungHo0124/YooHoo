@@ -101,8 +101,7 @@
 
 ## 1. 단체 보기
 
-<img src="images/2.gif
-" width="400" height="600"/>
+<img src="images/2.gif" width="400" height="600"/>
 
 ## 2. 후원하기
 
